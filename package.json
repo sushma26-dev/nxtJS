@@ -2,18 +2,19 @@
   "name": "antonxt",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jacksonsuthip.github.io/nxtJS/ajs/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "antd": "^4.20.3",
-    "apexcharts": "^3.35.2",
+    "apexcharts": "^3.35.0",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-apexcharts": "^1.4.0",
+    "react-apexcharts": "^1.3.9",
     "react-dom": "18.1.0"
   },
   "devDependencies": {
