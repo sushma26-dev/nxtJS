@@ -1,11 +1,15 @@
-import ReactApexChart from "react-apexcharts";
+// import ReactApexChart from "react-apexcharts";
+import { useEffect, useState } from 'react';
 import Nav from "../comp/nav";
+import dynamic from 'next/dynamic';
+const ReactApexChart = dynamic(() => import('react-apexcharts'), { ssr: false });
 
 export default function About() {
-    return (
-        <div >
-            <Nav />
-            <h1>About</h1>
+
+    const [tst, setTst] = useState();
+
+    useEffect(() => {
+        setTst(
             <ReactApexChart
                 type="bar"
                 series={[
@@ -15,9 +19,16 @@ export default function About() {
                     }
                 ]}
                 height={300}
-                width={200}
+                width={300}
                 options={{}}
             ></ReactApexChart>
+        )
+    }, []);
+
+    return (
+        <div >
+            <Nav />
+            <h1>About{tst}</h1>
         </div>
     )
 }
