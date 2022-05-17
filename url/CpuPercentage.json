@@ -1,5 +1,13 @@
 [
   {
+    "TimeGenerated": "5/6/2022, 12:00:00.000 AM",
+    "MetricName": "CpuPercentage",
+    "avg": "6.014814814814815",
+    "count": 135,
+    "max": 21,
+    "min": 2
+  },
+  {
     "TimeGenerated": "5/11/2022, 12:00:00.000 AM",
     "MetricName": "CpuPercentage",
     "avg": "4",
@@ -14,14 +22,6 @@
     "count": 66,
     "max": 23,
     "min": 3
-  },
-  {
-    "TimeGenerated": "5/6/2022, 12:00:00.000 AM",
-    "MetricName": "CpuPercentage",
-    "avg": "6.014814814814815",
-    "count": 135,
-    "max": 21,
-    "min": 2
   },
   {
     "TimeGenerated": "5/17/2022, 12:00:00.000 AM",
