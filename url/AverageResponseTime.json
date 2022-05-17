@@ -1,90 +1,98 @@
 [
- {
-   "TimeGenerated": "5/15/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 34,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/11/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0.14930434782608695",
-   "count": 46,
-   "max": 6.868,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/9/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 34,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/13/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 36,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/12/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 34,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/8/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 34,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/7/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 32,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/6/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0.02427110215719285",
-   "count": 306,
-   "max": 4.689,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/14/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 34,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/10/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0",
-   "count": 34,
-   "max": 0,
-   "min": 0
- },
- {
-   "TimeGenerated": "5/16/2022, 12:00:00.000 AM",
-   "MetricName": "AverageResponseTime",
-   "avg": "0.3061196581196581",
-   "count": 78,
-   "max": 15.571,
-   "min": 0
- }
-]
+  {
+    "TimeGenerated": "5/15/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/16/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0.22740317460317455",
+    "count": 105,
+    "max": 15.571,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/11/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0.14930434782608695",
+    "count": 46,
+    "max": 6.868,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/9/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/13/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 36,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/12/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/8/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/7/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 32,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/6/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0.02427110215719285",
+    "count": 306,
+    "max": 4.689,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/14/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/10/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/17/2022, 12:00:00.000 AM",
+    "MetricName": "AverageResponseTime",
+    "avg": "0.7962181156457385",
+    "count": 183,
+    "max": 120.146,
+    "min": 0
+  }
+ ]
