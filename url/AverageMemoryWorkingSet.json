@@ -1,34 +1,44 @@
-[
-  {
-    "TimeGenerated": "5/11/2022, 12:00:00.000 AM",
-    "MetricName": "AverageMemoryWorkingSet",
-    "avg": "189564183",
-    "count": 2,
-    "max": 190111744,
-    "min": 189016622
-  },
-  {
-    "TimeGenerated": "5/16/2022, 12:00:00.000 AM",
-    "MetricName": "AverageMemoryWorkingSet",
-    "avg": "195049536.5522388",
-    "count": 67,
-    "max": 323382817,
-    "min": 171779164
-  },
-  {
-    "TimeGenerated": "5/6/2022, 12:00:00.000 AM",
-    "MetricName": "AverageMemoryWorkingSet",
-    "avg": "196081622.83673468",
-    "count": 294,
-    "max": 234198015,
-    "min": 175762772
-  },
-  {
-    "TimeGenerated": "5/17/2022, 12:00:00.000 AM",
-    "MetricName": "AverageMemoryWorkingSet",
-    "avg": "179508033.89171976",
-    "count": 157,
-    "max": 317274670,
-    "min": 160201634
-  }
- ]
+{
+    "TimeGenerated": {
+        "0": "2022-05-17T00:00:00Z",
+        "1": "2022-05-16T00:00:00Z",
+        "2": "2022-05-11T00:00:00Z",
+        "3": "2022-05-06T00:00:00Z",
+        "4": "2022-05-18T00:00:00Z"
+    },
+    "MetricName": {
+        "0": "AverageMemoryWorkingSet",
+        "1": "AverageMemoryWorkingSet",
+        "2": "AverageMemoryWorkingSet",
+        "3": "AverageMemoryWorkingSet",
+        "4": "AverageMemoryWorkingSet"
+    },
+    "avg": {
+        "0": 161746216.2510460317,
+        "1": 195049536.5522387922,
+        "2": 189564183.0,
+        "3": 196081622.8367346823,
+        "4": 172429744.3902438879
+    },
+    "count": {
+        "0": 239,
+        "1": 67,
+        "2": 2,
+        "3": 294,
+        "4": 82
+    },
+    "max": {
+        "0": 317274670,
+        "1": 323382817,
+        "2": 190111744,
+        "3": 234198015,
+        "4": 242456917
+    },
+    "min": {
+        "0": 89725952,
+        "1": 171779164,
+        "2": 189016622,
+        "3": 175762772,
+        "4": 120352768
+    }
+}
