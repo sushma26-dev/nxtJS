@@ -1,0 +1,98 @@
+[
+  {
+    "TimeGenerated": "5/15/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/11/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0.011521739130434782",
+    "count": 46,
+    "max": 0.379,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/16/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0.21121904761904756",
+    "count": 105,
+    "max": 0.759,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/9/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/13/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 36,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/12/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/8/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/7/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 32,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/6/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0.2526666666666666",
+    "count": 306,
+    "max": 1.518,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/14/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/10/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0",
+    "count": 34,
+    "max": 0,
+    "min": 0
+  },
+  {
+    "TimeGenerated": "5/17/2022, 12:00:00.000 AM",
+    "MetricName": "CpuTime",
+    "avg": "0.24615300546448088",
+    "count": 183,
+    "max": 0.899,
+    "min": 0
+  }
+ ]
